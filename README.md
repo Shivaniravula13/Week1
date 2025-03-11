@@ -1,4 +1,4 @@
-# Week1
+# Week2
 This project detects Plant Diseases using images which helps the farmers to prevent crop loss.
 
 
